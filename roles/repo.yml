@@ -6,3 +6,4 @@ roles:
   - src: https://github.com/Gehan-Ibrahim/ansible-ntp
     scm: git
     version: master
+
